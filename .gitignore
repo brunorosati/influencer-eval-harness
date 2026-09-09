@@ -1,0 +1,9 @@
+.env
+data/private/
+__pycache__/
+*.pyc
+.venv/
+venv/
+audit-venv/
+results/
+*.egg-info/
